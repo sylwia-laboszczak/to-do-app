@@ -1,4 +1,9 @@
+# Life demo of app
+
+[Open](https://sylwia-laboszczak.github.io/to-do-app) to view the github page 
+
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
