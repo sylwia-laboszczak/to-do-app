@@ -1,4 +1,4 @@
-# Life demo 
+## Live demo 
 
 App available at [link](https://sylwia-laboszczak.github.io/to-do-app)
 
