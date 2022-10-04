@@ -1,7 +1,8 @@
-Life demo of app available at [Open](https://sylwia-laboszczak.github.io/to-do-app)
+# Life demo 
+
+App available at [link](https://sylwia-laboszczak.github.io/to-do-app)
 
 # Getting Started with Create React App
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
