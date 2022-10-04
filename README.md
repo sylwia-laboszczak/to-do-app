@@ -1,6 +1,4 @@
-# Life demo of app
-
-[Open](https://sylwia-laboszczak.github.io/to-do-app) to view the github page 
+Life demo of app available at [Open](https://sylwia-laboszczak.github.io/to-do-app)
 
 # Getting Started with Create React App
 
